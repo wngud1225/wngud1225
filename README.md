@@ -11,13 +11,15 @@
 ![답답하다면..](https://jjalbang.net/data/264614.jpg) <br>
 [Click](https://ppss.kr/wp-content/uploads/2013/07/20130402_025303.png)
 
-# 내 랭크
+# 명예의 전당
+
+## 내 랭크
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=wngud1225)](https://solved.ac/wngud1225/)
 
-# 싸우고 있는 랭커
+# 이제 막 브론즈 된 랭커
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=niggaud)](https://solved.ac/niggaud/)
 
-# 따라가고 있는 랭커
+# 되고 싶은 랭커
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hjhassa1)](https://solved.ac/hjhassa1/)
 
 
