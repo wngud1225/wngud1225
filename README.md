@@ -9,7 +9,7 @@
 혹시 답답하신가요? <br>
 
 ![답답하다면..](https://jjalbang.net/data/264614.jpg) <br>
-[Click](https://ppss.kr/wp-content/uploads/2013/07/20130402_025303.png)
+[그래 나나 열심히 살자](https://ppss.kr/wp-content/uploads/2013/07/20130402_025303.png)
 
 # 명예의 전당
 
