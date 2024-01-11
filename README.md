@@ -16,11 +16,11 @@
 ## 내 랭크
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=wngud1225)](https://solved.ac/wngud1225/)
 
-# 이제 막 브론즈 된 랭커
+<!-- ## 이제 막 시작한 옆 랭커
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=niggaud)](https://solved.ac/niggaud/)
 
-# 되고 싶은 랭커
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hjhassa1)](https://solved.ac/hjhassa1/)
+## 되고 싶은 랭커
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hjhassa1)](https://solved.ac/hjhassa1/) -->
 
 
 
