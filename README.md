@@ -10,3 +10,15 @@
 
 ![답답하다면..](https://jjalbang.net/data/264614.jpg) <br>
 [Click](https://ppss.kr/wp-content/uploads/2013/07/20130402_025303.png)
+
+# 내 랭크
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=wngud122)](https://solved.ac/wngud1225/)
+
+# 싸우고 있는 랭커
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=niggaud)](https://solved.ac/niggaud/)
+
+# 따라가고 있는 랭커
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hjhassa1)](https://solved.ac/hjhassa1/)
+
+
+
