@@ -59,4 +59,4 @@
 * [#issue3] 나무 재테크 
 * [#issue4] 아기 상어
 
-출처: gmlwjd9405
+클릭안되면 여기... 출처: [gmlwjd9405](https://github.com/WeareSoft/algorithm-study/blob/master/contents/samsung/README.md)
