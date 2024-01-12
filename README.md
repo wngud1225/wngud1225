@@ -16,8 +16,6 @@
 ![책1](https://image.yes24.com/momo/TopCate03/MidCate05/248828.jpg)
 ![책2](https://image.yes24.com/momo/TopCate70/MidCate01/6904710.jpg)
 
-![이미지3](https://www.azquotes.com/vangogh-image-quotes/71/14/Quotation-Derek-Jeter-I-love-it-when-people-doubt-me-It-makes-me-71-14-97.jpg)
-
 ### 2023 나의 책
 ![책3](/source/세이노.jpg)
 
@@ -54,7 +52,6 @@
 결국은 도메인와 비즈니스 모델... 소비자와 관계 형성...
 
 
-
 <br>
 
 # 싸피에서 하고 싶은 것
@@ -82,7 +79,7 @@
 <br><br>
 <br><br>
 
-# 우리들만의 비밀 파일
+<!-- # 우리들만의 비밀 파일
 ## 삼성 SW 역량 테스트 
 
 ### 기출 문제 (1)
@@ -117,4 +114,4 @@
 * [#issue3] 나무 재테크 
 * [#issue4] 아기 상어
 
-클릭안되면 여기... 출처: [gmlwjd9405](https://github.com/WeareSoft/algorithm-study/blob/master/contents/samsung/README.md)
+클릭안되면 여기... 출처: [gmlwjd9405](https://github.com/WeareSoft/algorithm-study/blob/master/contents/samsung/README.md) -->
