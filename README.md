@@ -59,6 +59,8 @@
 ## 그냥 이것저것 배우기
 ![잡스형](https://i.pinimg.com/originals/fd/a9/06/fda90680d0afcc3456e01be876486a4f.png)
 
+- 이런 태도가 좋진 않지만 그렇다고 나쁘진 않아보인다
+
 ## 내 랭크
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=wngud1225)](https://solved.ac/wngud1225/)
 
