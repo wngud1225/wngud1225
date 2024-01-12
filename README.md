@@ -3,18 +3,23 @@
 - 나이: 99년생
 
 # 나의 성향
-- 펭귄을 좋아한다.<br><br>
+- 펭귄을 좋아한다.<br>
 <!-- ![동물1](https://i.namu.wiki/i/u2B6On7f7tF-Vvxc5nxYybqM1iDHybdDuPvjVymgRscHMQkRGnVrMQOKQossA5zoalemgJN2U60o4w0uUCEKRw.webp) -->
 ![펭귄2](https://s3.orbi.kr/data/file/united/981048033_Tbx38vV9_4t1CDMI.gif)
 
-- 잠이 많다.<br><br>
+- 잠이 많다.<br>
 ![잠1](https://cdn.imweb.me/upload/S20200901a942bae14250b/bd0e619a7b173.jpg)
-수면 총량의 보존 법칙
+수면 총량의 보존 법칙 (서울대 입구역 자취)
 
 
-- 책을 좋아한다.<br><br>
+- 책을 읽으려고 한다.<br>
 ![책1](https://image.yes24.com/momo/TopCate03/MidCate05/248828.jpg)
+![책2](https://image.yes24.com/momo/TopCate70/MidCate01/6904710.jpg)
 
+- 축구 & 골프 <br>
+![취미1](https://thumbnews.nateimg.co.kr/view610///news.nateimg.co.kr/orgImg/su/2021/10/26/449941_572116_3954.gif)<br>
+스크린만 가능<br>
+2개월 수강자
 
 
 # 좋아하는 말
@@ -23,10 +28,33 @@
 ![답답하다면..](https://jjalbang.net/data/264614.jpg) <br>
 [그래 나나 열심히 살자](https://ppss.kr/wp-content/uploads/2013/07/20130402_025303.png)
 
+# 개발자란 무엇일까?
+- "5년 후에는 인간 프로그래머가 없을 것이다"
+![개발자1](/source/개발자2.PNG)
+
+[출처](https://www.idailynews.co.kr/news/articleView.html?idxno=101553)
+
+- 근데 솔직히 되어봐야 알 듯
+![개발자2](/source/개발자1.PNG)
+
+
+- 그래서 너는?
+   
+내가 짠 코드는 누군가 짰지 않았을까... <br>
+한 번이라도 짠 코드는 또 누군가 만들 필요가... <br>
+결국은 도메인와 비즈니스 모델... 소비자와 관계 형성...
+
+
+
+<br>
+
 # 명예의 전당
 
 ## 내 랭크
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=wngud1225)](https://solved.ac/wngud1225/)
+
+![개발자2](https://contents.kyobobook.co.kr/sih/fit-in/458x0/pdt/9791188283835.jpg)
+
 
 <!-- ## 이제 막 시작한 옆 랭커
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=niggaud)](https://solved.ac/niggaud/)
