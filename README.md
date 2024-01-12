@@ -16,10 +16,14 @@
 ![책1](https://image.yes24.com/momo/TopCate03/MidCate05/248828.jpg)
 ![책2](https://image.yes24.com/momo/TopCate70/MidCate01/6904710.jpg)
 
+![이미지3](https://www.azquotes.com/vangogh-image-quotes/71/14/Quotation-Derek-Jeter-I-love-it-when-people-doubt-me-It-makes-me-71-14-97.jpg)
+
 <br>
 
 - 축구 & 골프 <br> 
-![취미1](/source/골프.gif)<br>
+
+![취미1](/source/골프.gif)
+
 스크린만 가능<br>
 2개월 수강자
 
@@ -44,7 +48,6 @@
 - 그래서 너는?
    
 내가 짠 코드는 누군가 짰지 않았을까... <br>
-한 번이라도 짠 코드는 또 누군가 만들 필요가... <br>
 결국은 도메인와 비즈니스 모델... 소비자와 관계 형성...
 
 
@@ -52,6 +55,9 @@
 <br>
 
 # 싸피에서 하고 싶은 것
+
+## 그냥 이것저것 배우기
+![잡스형](https://i.pinimg.com/originals/fd/a9/06/fda90680d0afcc3456e01be876486a4f.png)
 
 ## 내 랭크
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=wngud1225)](https://solved.ac/wngud1225/)
