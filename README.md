@@ -2,8 +2,20 @@
 - 이름: 홍주형
 - 나이: 99년생
 
-# 좋아하는 동물
-![동물..](https://i.namu.wiki/i/u2B6On7f7tF-Vvxc5nxYybqM1iDHybdDuPvjVymgRscHMQkRGnVrMQOKQossA5zoalemgJN2U60o4w0uUCEKRw.webp) <br>
+# 나의 성향
+- 펭귄을 좋아한다.<br><br>
+<!-- ![동물1](https://i.namu.wiki/i/u2B6On7f7tF-Vvxc5nxYybqM1iDHybdDuPvjVymgRscHMQkRGnVrMQOKQossA5zoalemgJN2U60o4w0uUCEKRw.webp) -->
+![펭귄2](https://s3.orbi.kr/data/file/united/981048033_Tbx38vV9_4t1CDMI.gif)
+
+- 잠이 많다.<br><br>
+![잠1](https://cdn.imweb.me/upload/S20200901a942bae14250b/bd0e619a7b173.jpg)
+수면 총량의 보존 법칙
+
+
+- 책을 좋아한다.<br><br>
+![책1](https://image.yes24.com/momo/TopCate03/MidCate05/248828.jpg)
+
+
 
 # 좋아하는 말
 혹시 답답하신가요? <br>
@@ -21,6 +33,17 @@
 
 ## 되고 싶은 랭커
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hjhassa1)](https://solved.ac/hjhassa1/) -->
+
+
+
+
+
+
+
+
+
+
+
 
 <br><br>
 
