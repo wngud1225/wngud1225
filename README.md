@@ -38,13 +38,16 @@
 
 # 개발자란 무엇일까?
 - "5년 후에는 인간 프로그래머가 없을 것이다"
+
 ![개발자1](/source/개발자2.PNG)
 
 [출처](https://www.idailynews.co.kr/news/articleView.html?idxno=101553)
 
-- 근데 솔직히 되어봐야 알 듯
+- 근데 솔직히 되어봐야 알 듯 
+<br>
+
 ![개발자2](/source/개발자1.PNG)
-[출처](https://news.nate.com/view/20211026n36529)
+
 
 - 그래서 너는?
    
